@@ -1,0 +1,25 @@
+.header-info {
+  padding-left: 100px;
+  padding-right: 100px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+
+.container {
+  width: 80%;
+  margin: auto;
+}
+
+.left-header {
+  width: 45%;
+  color: grey;
+}
+
+.left-header h2 {
+  margin-top: 20px;
+}
+
+.right-header {
+  width: 45%;
+}

@@ -1,0 +1,21 @@
+.header {
+  padding-left: 80px;
+  padding-right: 80px;
+  background-color: rgb(138, 175, 224);
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  height: 40px;
+  color: white;
+}
+
+.header-links {
+  width: 40%;
+  display: flex;
+  justify-content: space-around;
+}
+
+.header-links a {
+  color: white;
+  text-decoration: none;
+}
