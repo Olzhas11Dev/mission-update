@@ -4,8 +4,8 @@
 }
 .header-info {
   margin-top: 100px;
-  padding-left: 100px;
-  padding-right: 100px;
+  padding-left: 200px;
+  padding-right: 200px;
   display: flex;
   flex-direction: row;
   justify-content: space-between;
@@ -17,7 +17,7 @@
 }
 
 .left-header {
-  width: 45%;
+  width: 50%;
   color: grey;
 }
 
@@ -25,24 +25,32 @@
   margin-top: 20px;
 }
 
+.header-text {
+  margin-top: 20px;
+  width: 80%;
+  font-size: 12px;
+}
+
 .right-header {
-  width: 45%;
+  width: 50%;
 }
 
 .btn-radio {
   width: 100px;
+  margin: auto;
   display: flex;
   justify-content: space-between;
-  margin: auto;
 }
 
 .icons-header-info {
+  margin-top: 20px;
   width: 80%;
   display: flex;
   justify-content: space-between;
 }
 
 .card-header {
+  cursor: pointer;
   width: 80px;
   height: 80px;
   background-color: #36c1f6;

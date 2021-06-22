@@ -4,7 +4,9 @@ import "../style/header.css"
 export default function Header() {
   return (
     <div className="header">
-      <div>Logo</div>
+      <div>
+        <img src="icon_star.png" alt="" width="100px" />
+      </div>
       <div className="header-links">
         <a href="#">Home</a>
         <a href="#">Features</a>
