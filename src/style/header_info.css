@@ -1,4 +1,9 @@
+* {
+  margin: 0;
+  padding: 0;
+}
 .header-info {
+  margin-top: 100px;
   padding-left: 100px;
   padding-right: 100px;
   display: flex;
@@ -22,4 +27,38 @@
 
 .right-header {
   width: 45%;
+}
+
+.btn-radio {
+  width: 100px;
+  display: flex;
+  justify-content: space-between;
+  margin: auto;
+}
+
+.icons-header-info {
+  width: 80%;
+  display: flex;
+  justify-content: space-between;
+}
+
+.card-header {
+  width: 80px;
+  height: 80px;
+  background-color: #36c1f6;
+  margin: 5px;
+  border-radius: 5px;
+}
+
+.card-header img {
+  width: 35px;
+  padding-top: 10px;
+  display: flex;
+  margin: auto;
+}
+
+.card-header p {
+  font-size: 10px;
+  text-align: center;
+  color: white;
 }
