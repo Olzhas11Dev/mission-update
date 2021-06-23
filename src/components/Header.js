@@ -12,7 +12,7 @@ export default function Header() {
         <a href="#">Features</a>
         <a href="#">Teachers</a>
       </div>
-      <div>Registrations</div>
+      <div>Registrations form</div>
     </div>
   )
 }
