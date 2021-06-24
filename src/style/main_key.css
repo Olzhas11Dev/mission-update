@@ -4,12 +4,15 @@
 }
 
 .main-key {
-  margin-top: 20px;
   width: 100%;
   height: 400px;
+  margin-top: 20px;
+  background-color: rgb(226, 225, 225);
+}
+
+.main-key-block {
   padding-left: 200px;
   padding-right: 200px;
-  background-color: rgb(226, 225, 225);
 }
 
 .key-text {
