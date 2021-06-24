@@ -12,7 +12,7 @@ export default function HeaderBaby() {
         <h1>
           Prepare young minds for a better <span>future</span>
         </h1>
-        <p>Let us help you andvance students in Digital Technoloies and other learning areas with our project-based learning programme</p>
+        <p className="baby-text">Let us help you andvance students in Digital Technoloies and other learning areas with our project-based learning programme</p>
         <div className="baby-btn">
           <button>LEARN MORE</button>
           <button>SIGN UP</button>

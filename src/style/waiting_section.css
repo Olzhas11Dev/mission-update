@@ -1,0 +1,54 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+.wating-section {
+  margin-top: 40px;
+  margin-bottom: 40px;
+  padding-left: 200px;
+  padding-right: 200px;
+  display: flex;
+}
+
+.waitLeft img {
+  width: 350px;
+}
+
+.waitRight {
+  margin-left: 30px;
+  color: grey;
+}
+
+.waitRight h4 {
+  font-weight: 400;
+  margin-top: 30px;
+}
+
+.waitRight p {
+  margin-top: 30px;
+  font-size: 12px;
+}
+
+.btn-wait {
+  width: 70%;
+  margin-top: 50px;
+  display: flex;
+  justify-content: space-between;
+}
+
+.btn-wait button {
+  color: grey;
+  font-size: 10px;
+  font-weight: 700;
+  width: 100px;
+  padding: 3px;
+  border-radius: 4px;
+  border: 2px solid #36c1f6;
+}
+
+.btn-wait button:hover {
+  background-color: #fb2085;
+  border: none;
+  color: white;
+}

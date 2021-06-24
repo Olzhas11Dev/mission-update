@@ -14,7 +14,54 @@ export default function MainBlock() {
           <div className="main-logo">
             <img src="main_icon_idea.png" alt="" />
           </div>
-          <p>Creativity @ Individuality</p>
+          <p>
+            Creativity <br />& Individuality
+          </p>
+        </div>
+        <div className="main-card">
+          <div className="main-pic">
+            <div className="main-mask"></div>
+            <img src="main_girl.png" alt="" />
+          </div>
+          <div className="main-logo">
+            <img src="main_icon_idea.png" alt="" />
+          </div>
+          <p>
+            Creativity <br />& Individuality
+          </p>
+        </div>
+        <div className="main-card">
+          <div className="main-pic">
+            <div className="main-mask"></div>
+            <img src="main_girl.png" alt="" />
+          </div>
+          <div className="main-logo">
+            <img src="main_icon_idea.png" alt="" />
+          </div>
+          <p>
+            Creativity <br />& Individuality
+          </p>
+        </div>
+        <div className="main-card">
+          <div className="main-pic">
+            <div className="main-mask"></div>
+            <img src="main_girl.png" alt="" />
+          </div>
+          <div className="main-logo">
+            <img src="main_icon_idea.png" alt="" />
+          </div>
+          <p>
+            Creativity <br />& Individuality
+          </p>
+        </div>
+      </div>
+      <div className="teach-section">
+        <h1>How our programme helps teachers and schools</h1>
+        <div className="btn-teach">
+          <button>LEARNING PATHWAYS</button>
+          <button>DIGITAL TECHNOLOGIES</button>
+          <button>KEY COPETENIES</button>
+          <button>IR4.0</button>
         </div>
       </div>
     </div>
