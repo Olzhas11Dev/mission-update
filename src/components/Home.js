@@ -10,8 +10,8 @@ import Footer from "./Footer"
 export default function Home() {
   return (
     <div>
-      {/* <Header /> */}
-      {/* <HeaderBaby /> */}
+      <Header />
+      <HeaderBaby />
       <HeaderInfo />
       <MainBlock />
       <MainKey />

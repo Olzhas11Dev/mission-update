@@ -21,10 +21,10 @@ export default function MainBlock() {
         <div className="main-card">
           <div className="main-pic">
             <div className="main-mask"></div>
-            <img src="main_girl.png" alt="" />
+            <img src="main_markus.png" alt="" />
           </div>
           <div className="main-logo">
-            <img src="main_icon_idea.png" alt="" />
+            <img src="main_icon_brain.png" alt="" />
           </div>
           <p>
             Creativity <br />& Individuality
@@ -33,10 +33,10 @@ export default function MainBlock() {
         <div className="main-card">
           <div className="main-pic">
             <div className="main-mask"></div>
-            <img src="main_girl.png" alt="" />
+            <img src="main_two_girls.png" alt="" />
           </div>
           <div className="main-logo">
-            <img src="main_icon_idea.png" alt="" />
+            <img src="main_icon_team.png" alt="" />
           </div>
           <p>
             Creativity <br />& Individuality
@@ -45,10 +45,10 @@ export default function MainBlock() {
         <div className="main-card">
           <div className="main-pic">
             <div className="main-mask"></div>
-            <img src="main_girl.png" alt="" />
+            <img src="main_annie.png" alt="" />
           </div>
           <div className="main-logo">
-            <img src="main_icon_idea.png" alt="" />
+            <img src="main_icon_atom.png" alt="" />
           </div>
           <p>
             Creativity <br />& Individuality
