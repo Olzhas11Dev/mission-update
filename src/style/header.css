@@ -1,6 +1,6 @@
 .header {
-  padding-left: 80px;
-  padding-right: 80px;
+  padding-left: 160px;
+  padding-right: 160px;
   background-color: #36c1f6;
   display: flex;
   justify-content: space-between;
@@ -10,6 +10,7 @@
 }
 
 .header-links {
+  font-size: 14px;
   width: 40%;
   display: flex;
   justify-content: space-around;
@@ -18,4 +19,34 @@
 .header-links a {
   color: white;
   text-decoration: none;
+}
+
+.header-lang {
+  font-size: 7px;
+}
+
+.header-flags {
+  cursor: pointer;
+  display: flex;
+  margin-left: 55px;
+  align-items: center;
+}
+
+.header-flags img {
+  width: 12px;
+  height: 6px;
+  margin-left: 4px;
+}
+
+.header-reg {
+  display: flex;
+  align-items: center;
+  cursor: pointer;
+  font-size: 12px;
+  font-weight: 700;
+}
+
+.header-reg img {
+  width: 15px;
+  margin-right: 5px;
 }
